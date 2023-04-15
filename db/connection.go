@@ -4,6 +4,8 @@ import (
 	"database/sql"
 	"fmt"
 
+	"github.com/targinou/todo-list-golang/configs"
+
 	_ "github.com/lib/pq"
 )
 
